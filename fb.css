@@ -1,0 +1,220 @@
+.header{
+
+    width: auto;
+    height: 80px;
+    background-color: #3B5998;
+    background-size: contain;
+}
+body{
+    background-color: #E9EBEE;
+    width: 100%;
+    height: 100px;
+
+}
+.right{
+    cursor: pointer;
+    color:white;
+    width:auto ;
+    height:4px;
+    margin-left: 120px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    float: left;
+
+    font-size: 20px;
+}
+.left
+{
+    color: white;
+    cursor: pointer;
+    font-size: 15px;
+    background-color: #42B72A;
+    width: 140px;
+    height: 27px;
+    float: left;
+    padding-left: 1px;
+    padding-right: 4px;
+    text-align:center;
+    padding-bottom: 6px;
+    padding-top: 1px;
+    font: 12px helvetica,arial;
+    margin-top: 35px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+
+
+}
+.form{
+
+    width: 396px;
+    background-color: #FFFFFF;
+    height: 390px;
+    margin-top: 90px;
+    padding: 22px 108px 26px;
+}
+.para{
+
+    margin-top: 30px;
+    font: 18px helvetica,arial;
+    line-height: 15px;
+}
+.email{
+
+    font-size: 15px;
+    padding: 5px 8px;
+    width: 284px;
+    background: #FFFFFF;
+    border: 1px solid #dddfe2;
+    color: #1d2129;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    height: 30px;
+    line-height: 16px;
+    padding: 0 8px;
+    vertical-align: middle;
+}
+.pass{
+
+    font-size: 15px;
+    padding: 5px 8px;
+    width: 284px;
+    background: #FFFFFF;
+    border: 1px solid #dddfe2;
+    color: #1d2129;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    height: 30px;
+    line-height: 16px;
+    padding: 0 8px;
+    vertical-align: middle;
+}
+.log{
+    width: 284px;
+    height: 50px;
+    line-height: 20px;
+    padding: 0 20px;
+    background-color: #4267b2;
+    border-color: #4267b2;
+    color: #fff;
+    border: 1px solid;
+    border-radius: 3px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    font-weight: bold;
+    justify-content: center;
+    padding: 0 8px;
+    position: relative;
+    text-align: center;
+    text-shadow: none;
+    vertical-align: middle;
+    cursor: pointer;
+}
+.forget{
+    font-family: inherit;
+    padding: 3px 0;
+    text-align: center;
+    color: #1c1e21;
+    line-height: 1.34;
+    cursor: default;
+    margin: auto;
+    text-decoration: none;
+    padding: 2px 0;
+    text-align: center;
+    width: 260px;
+}
+.hh{
+    font-family: sans-serif;
+    margin: 0px auto;
+    text-align: center;
+    font-size: 10px;
+    max-width: 400px;
+    position:relative;
+
+}
+.hh:before{
+    content: "";
+    display:block;
+    width: 120px;
+    height:1px;
+    background: #000;
+    position: absolute;
+    left: 0;
+    top: 45%;
+    z-index: 5;
+}
+.hh:after{
+    content: " ";
+    display:block;
+    width: 120px;
+    height:1px;
+    background: #000;
+    position: absolute;
+    right: 0;
+    top: 45%;
+    z-index: 8;
+}
+span{
+    background: #fff
+}
+.signup{
+    width: 284px;
+    height: 50px;
+    line-height: 20px;
+    padding: 0 20px;
+    background-color: #4267b2;
+    border-color: #4267b2;
+    color: #fff;
+    border: 1px solid;
+    border-radius: 3px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    font-weight: bold;
+    justify-content: center;
+    padding: 0 8px;
+    position: relative;
+    text-align: center;
+    text-shadow: none;
+    vertical-align: middle;
+    cursor: pointer;
+}
+.bottom{
+    margin-top: 90px;
+
+    width: 100%;
+    height: 200px;
+    background-color: white;
+
+}
+.signup{
+    width: 284px;
+    height: 50px;
+    line-height: 20px;
+    padding: 0 20px;
+    background-color: #4267b2;
+    border-color: #4267b2;
+    color: #fff;
+    margin-top: 15px;
+    border: 1px solid;
+    border-radius: 3px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    font-weight: bold;
+    justify-content: center;
+    padding: 0 8px;
+    position: relative;
+    text-align: center;
+    text-shadow: none;
+    vertical-align: middle;
+    cursor: pointer;
+}
+.bottom{
+
+    width: 100%;
+    height: 200px;
+    background-color: white;
+    margin-top: 90px;
+}
